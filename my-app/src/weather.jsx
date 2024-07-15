@@ -116,7 +116,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -160,7 +160,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -207,7 +207,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -254,7 +254,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -301,7 +301,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -348,7 +348,7 @@ function Weather() {
                                 </div>
                             </div>
                             <div>
-                                <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                 <div className="time">
                                     <div>5am</div>
                                     <div>2pm</div>
@@ -377,7 +377,7 @@ function Weather() {
                             <div id="day1"/>
                             <div id="temp1"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des1"/>
                         </div>
@@ -385,7 +385,7 @@ function Weather() {
                             <div id="day2"/>
                             <div id="temp2"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des2"/>
                         </div>
@@ -393,7 +393,7 @@ function Weather() {
                             <div id="day3"/>
                             <div id="temp3"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des3"/>
                         </div>
@@ -401,7 +401,7 @@ function Weather() {
                             <div id="day4"/>
                             <div id="temp4"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des4"/>
                         </div>
@@ -409,7 +409,7 @@ function Weather() {
                             <div id="day5"/>
                             <div id="temp5"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des5"/>
                         </div>
@@ -417,7 +417,7 @@ function Weather() {
                             <div id="day6"/>
                             <div id="temp6"/>
                             <div id="logo">
-                                <img src="01n.png" alt="" height="25px"/>
+                                <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="25px"/>
                             </div>
                             <div id="des6"/>
                         </div>
@@ -430,7 +430,7 @@ function Weather() {
                                         <h1/>
                                     </div>
                                     <div id="day" className="temp1">
-                                        <img src="01n.png" alt="" height="35px"/>
+                                        <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/01n.png" alt="" height="35px"/>
                                     </div>
                                 </div>
                             </div>
@@ -456,7 +456,7 @@ function Weather() {
                                     </div>
                                 </div>
                                 <div>
-                                    <img src="sun.png" alt="" srcSet="" width="443px" height="100px"/>
+                                    <img src="https://aaliyan-bot.github.io/Weather-app-vanillajs/sun.png" alt="" srcSet="" width="443px" height="100px"/>
                                     <div className="time">
                                         <div>5am</div>
                                         <div>2pm</div>
